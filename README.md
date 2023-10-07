@@ -5,7 +5,7 @@ This model is based on Text classification using pytorch library. In this model 
 * accuracy : 0.866
 
 ## model architecture for text classification :
-![](https://github.com/foduucom/contact-form-spam-detection)
+![](https://github.com/foduucom/contact-form-spam-detection/blob/main/text%20classification.jpeg)
 
 ## Label for text classification:
 * Enquiry
